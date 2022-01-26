@@ -1,4 +1,4 @@
-# pstroe.github.io
+# PBS
 My personal webpage
 
 Hello there!
